@@ -1,13 +1,13 @@
 # Hi there, I’m Tife 👋🏽  
 
-🚀 **Aspiring Cybersecurity Professional** | Documenting my journey  
+ **Aspiring Cybersecurity Professional** | Documenting my journey  
 
 I’m passionate about securing systems, learning ethical hacking, and sharing my hands-on cybersecurity projects.  
 This space is where I document my labs, notes, and growth in the field.  
 
 ---
 
-## 🔐 What I’m Learning  
+##  What I’m Learning  
 - Networking fundamentals  
 - Linux (Kali)  
 - Ethical hacking basics  
@@ -33,7 +33,7 @@ This space is where I document my labs, notes, and growth in the field.
 
 ---
 
-## 🌱 Current Goal  
+##  Current Goal  
 - Build a strong foundation in cybersecurity  
 - Earn CompTIA SEC+ Certification (in progress)  
 - Document everything as I learn  
