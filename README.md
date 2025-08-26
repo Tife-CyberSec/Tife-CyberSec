@@ -30,7 +30,7 @@ This space is where I document my labs, notes, and growth in the field.
 
 Here’s a collection of my hands-on labs and experiments:
 
-- [Network Security Lab](https://github.com/Tife-CyberSec/My-CyberSec-Projects/tree/main/network-security-lab)  
+- [Network Security Lab](https://github.com/Tife-CyberSec/My-CyberSec-Projects/tree/master/network-security-lab)  
   Explored VLANs, ACLs, Wireshark traffic analysis, and simulated ICMP flood attacks.
 ---
 
